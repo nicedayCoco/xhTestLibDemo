@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"0.0.2版");
+    NSLog(@"0.0.3版");
    
     
 }

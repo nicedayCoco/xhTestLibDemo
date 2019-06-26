@@ -4,13 +4,13 @@ Pod::Spec.new do |spec|
 
   
   spec.name         = "xhTestLibDemo"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
 
   spec.summary      = "我是描述。。。"
 
   
   spec.description  = <<-DESC
-			TODO: 修改成0.0.2
+			TODO: 修改成0.0.3
                    DESC
 
   spec.homepage     = "https://github.com/nicedayCoco/xhTestLibDemo"
